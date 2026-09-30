@@ -1,1 +1,1 @@
-# odin-recipes
+The Odin Project assignment, Project: Recipes
